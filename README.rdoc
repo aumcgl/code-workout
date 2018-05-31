@@ -1,5 +1,8 @@
 == README
 
+DESIGN RESOURCES CAN BE FOUND AT:
+https://drive.google.com/drive/folders/0BwmimG8lxYWZQXVtbmVqUzdlbU0?usp=sharing
+
 Development team notes:
 
 Database Test Data
